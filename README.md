@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @santhoshsk3722
-- 👀 I’m interested in learning...
-- 🌱 I’m currently learning html and css,bootstrap
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me santhoshkumarsingaraj.3722@gmail.com
+# 👋 Hi, I'm Santhosh — DevOps Engineer
 
-<!---
-santhoshsk3722/santhoshsk3722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 **DevOps Developer | Automation | CI/CD | AWS & Linux**
+
+🌱 I’m currently building and automating infrastructure using tools like:
+- Docker, Kubernetes
+- GitHub Actions & CI/CD workflows
+- Terraform / Ansible (if you're using these)
+- AWS / Cloud
+
+📌 **What I do**
+- Build efficient, automated CI/CD pipelines
+- Manage containerized deployments
+- Improve developer workflows through automation
+- Monitor infrastructure health & reliability
+
+🚀 **Currently Working On**
+- DevOps-Project-1-Manual-Deployment
+- (Add other DevOps-centric repos here)
+
+⭐ **Tech Stack**
+```plaintext
+Docker   • Kubernetes   • GitHub Actions
+CI/CD    • AWS (EC2, S3) • Linux (Ubuntu)
+Terraform/Ansible (if applicable)
