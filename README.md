@@ -95,7 +95,7 @@ Worked on a full-stack e-commerce application with focus on deployment readiness
 ## 📈 DevOps Learning Focus
 
 - Kubernetes (hands-on workloads)
-- Infrastructure as Code (Terraform – upcoming)
+- Infrastructure as Code (Terraform)
 - Cloud-native deployment patterns
 - Production-grade CI/CD pipelines
 
@@ -103,8 +103,8 @@ Worked on a full-stack e-commerce application with focus on deployment readiness
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link-here  
-- 📧 **Email:** your-email@example.com  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/your-link-here ](https://www.linkedin.com/in/santhosh-kumar-p-s/) 
+- 📧 **Email:** santhoshkumarsingaraj.3722@gmail.com 
 - 💻 **GitHub:** https://github.com/santhoshsk3722  
 
 ---
