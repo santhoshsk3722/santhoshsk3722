@@ -21,29 +21,29 @@ I focus on **DevOps practices**, infrastructure reliability, and building scalab
 ## 🧰 Core DevOps Skills
 
 ### 🔹 Programming & Automation
-- Python (automation, scripting)
+- Python
 - Shell / Bash scripting
-- Java (application & build understanding)
+- Java 
 
 ### 🔹 CI/CD & Version Control
-- Git, GitHub, Bitbucket
+- Git, GitHub
 - Jenkins
 - GitHub Actions
 - Maven, NPM
 
 ### 🔹 Containers & Orchestration
 - Docker
-- Kubernetes (fundamentals, deployments, services)
+- Kubernetes
 
 ### 🔹 Cloud & Systems
-- Microsoft Azure (VMs, App Services – fundamentals)
-- Linux (processes, networking, permissions)
+- Microsoft Azure 
+- Linux
 
 ### 🔹 Observability & Quality
-- Grafana (metrics & dashboards)
-- Splunk (log analysis)
-- SonarQube (code quality checks)
-- Nexus / JFrog Artifactory (artifact management)
+- Grafana
+- Splunk 
+- SonarQube 
+- Nexus / JFrog Artifactory 
 
 ---
 
