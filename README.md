@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Santhosh Kumar
 
-🚀 **DevOps Engineer** with ~2 years of experience designing CI/CD pipelines, automating deployments, and enabling reliable cloud-native application delivery.
+🚀 **DevOps Engineer** with 3 years of experience designing CI/CD pipelines, automating deployments, and enabling reliable cloud-native application delivery.
 
 I focus on **DevOps practices**, infrastructure reliability, and building scalable systems that improve developer productivity and deployment speed.
 
